@@ -11,7 +11,7 @@ public class ControleDeAudio : MonoBehaviour
     public Slider volumeSlider;
     public Slider volumeSFXSlider;
     public Toggle toggleMusica;
-    public TextMeshProUGUI textoMusica;
+    public TMP_Text textoMusica;
 
     void Start()
     {
